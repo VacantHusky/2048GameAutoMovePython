@@ -1,8 +1,8 @@
-# -2048GameAutoMovePython
+# 2048GameAutoMovePython
 使用python3编写2048游戏及自动玩2048
+演示视频：https://www.bilibili.com/video/BV1zg411u7tH/
 
 使用pygame模块绘制游戏界面。
-
 # 一、2048python
 2048python目录里是纯python写的。
 启动方式：
